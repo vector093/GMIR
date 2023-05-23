@@ -31,7 +31,7 @@ If you find this project useful in your research, please consider citing:
 @inproceedings{GMIR,
     title={{Gradient-based Maximally Interfered Retrieval for Domain Adaptive 3D Object Detection}},
     author={Nisar, Barza and
-            Annand, Vishal Kanna and
+            Anand, Vishal Kanna and
             Waslander, Steven L.},
     booktitle={Conference on Computer and Robot Vision (CRV)},
     year={2023}
